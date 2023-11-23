@@ -1,0 +1,32 @@
+1. What's the <pre> Tag?
+
+Imagine you're writing a letter to your friend. You want everything to look nice and in order, right? The <pre> tag is like a special instruction to the computer, saying, "Hey, keep everything exactly the way I wrote it!"
+
+2. Why Use <pre>?
+
+The <pre> tag is fantastic when you want to display something exactly as you've typed it, including spaces and line breaks. It's perfect for showing code, poems, or anything where the way things are arranged really matters.
+
+3. How to Use <pre>:
+
+Let's say you have a poem. If you just put it on your webpage without <pre>, the computer might squish it all together and not respect your line breaks. But with <pre>, it listens to you. Here's how it works:
+
+<pre>
+Roses are red,
+Violets are blue.
+HTML is cool,
+And so are you!
+</pre>
+
+Without <pre>, it might look like this:
+Roses are red, Violets are blue. HTML is cool, And so are you!
+
+But with <pre>, it keeps everything nice and neat, just like you wrote it:
+
+Roses are red,
+Violets are blue.
+HTML is cool,
+And so are you!
+
+4. Why It's Awesome:
+
+The <pre> tag is like a superhero cape for your text. It ensures that everything stays in the exact order you want, preserving the beauty of your words, code, or anything else you put inside it.
