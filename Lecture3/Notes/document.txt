@@ -1,0 +1,22 @@
+
+
+
+1. The <hr> Tag:
+
+Imagine you're reading a story, and you come across a line that separates two different scenes. It helps you know that something new is happening. Well, the <hr> tag in HTML is like that line!
+
+When you use <hr>, it creates a horizontal line on your webpage. It's like a visual break, telling the computer to draw a line to separate things. Let's see it in action:
+<p>This is one part of the story.</p>
+<hr>
+<p>And here's another part of the story, separated by a line.</p>
+So, <hr> is like a friendly border, making your webpage look organized and easy to follow.
+
+2. Comments in HTML:
+
+Now, let's talk about comments. Imagine you're writing a secret note to yourself while doing homework. You write something only you can understand. In HTML, we can do the same with comments!
+
+Comments don't show up on the webpage; they're like little notes just for you (or anyone else working on the webpage). They start with <!-- and end with -->. Here's how you can use them:
+<!-- This is a comment about something important. -->
+<p>This is the main part of our story.</p>
+<!-- Another comment, maybe a reminder for later. -->
+These comments are like sticky notes on your computer, helping you remember things or explain stuff to others who might read your code.
