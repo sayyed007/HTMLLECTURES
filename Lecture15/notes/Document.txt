@@ -1,0 +1,37 @@
+2. Adding Images to Your Page:
+
+To add an image to your webpage, we use the <img> tag. It's like creating a window through which your readers can peek into the visual world you've crafted. Let's see how it's done:
+<!-- Adding an image -->
+<img src="example-image.jpg" alt="Description of the image">
+Here, src is like the address of the image file, and alt is a short description of the image that appears if the image can't be loaded. It's like providing a little caption for accessibility!
+
+3. Setting Width and Height:
+
+You can control the size of your images using the width and height attributes. It's like adjusting the dimensions of your canvas. For example:
+<!-- Setting width and height of an image -->
+<img src="example-image.jpg" alt="Description of the image" width="300" height="200">
+
+Here, width="300" and height="200" determine the size of the image in pixels. It's like saying, "I want my image to be 300 pixels wide and 200 pixels tall."
+
+4. Adding Titles:
+
+You can also add a title to your image using the title attribute. It's like giving your image a name tag. For example:
+<!-- Adding a title to an image -->
+<img src="example-image.jpg" alt="Description of the image" title="My Awesome Image">
+
+Here, title="My Awesome Image" is like saying, "Let's call this image 'My Awesome Image'."
+
+5. Borders:
+
+To add a border around your image, you can use the style attribute with CSS. It's like putting a beautiful frame around your artwork. For example:
+<!-- Adding a border to an image -->
+<img src="example-image.jpg" alt="Description of the image" style="border: 2px solid #336699;">
+Here, border: 2px solid #336699; is like saying, "Give me a border that's 2 pixels wide and has a light blue color."
+
+6. Aligning Images:
+
+You can control how your text flows around your image using the align attribute. It's like deciding whether your text should be on the left or right side of the image. For example:
+<!-- Aligning an image to the right -->
+<img src="example-image.jpg" alt="Description of the image" align="right">
+Here, align="right" is like saying, "Let the text flow to the right of this image."
+

@@ -1,0 +1,14 @@
+1. What is a Favicon?
+
+A Favicon, short for "favorite icon," is a tiny image that appears next to your website's name in the browser tab. It's like a mini logo for your webpage, making it stand out and easily identifiable. Let's learn how to add this touch of personality to our websites!
+
+2. Using the <link> Tag:
+
+To add a Favicon to your webpage, we use the <link> tag in the <head> section of our HTML. It's like giving the browser a special instruction about our Favicon. Let me show you how it's done:
+<!-- Adding a Favicon to the webpage -->
+<link rel="icon" href="favicon.ico" type="image/x-icon">
+Here, rel="icon" tells the browser that this link is for the Favicon, href="favicon.ico" is the path to your Favicon file (replace it with the actual path of your file), and type="image/x-icon" specifies the type of the file. It's like setting up a VIP entrance for your Favicon!
+
+3. Choosing the Right Image:
+
+The Favicon image is typically a small square image, usually 16x16 pixels or 32x32 pixels. It's like creating a tiny masterpiece that represents your entire website. You can use image editing tools to create a simple and recognizable design.
